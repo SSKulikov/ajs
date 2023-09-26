@@ -1,0 +1,22 @@
+{
+  "name": "ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+@github.com:SSKulikov/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSKulikov/ajs/issues"
+  },
+  "dependencies": {
+    "@sskulikov/ajs-platforms": "^1.0.2"
+  }
+}
